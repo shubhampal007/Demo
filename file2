@@ -5,8 +5,7 @@ i am adding this third time.
 hey 4th time added
 
 This pulling code from remote.
-<<<<<<< HEAD
 This is from local repository
-=======
 This is the conflicting statement from remote.
->>>>>>> 4628c2bdcb6e54cc066e3d16a0103ed92fea75c4
+
+I am adding this functionality.
